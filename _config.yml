@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
+title: mews-base
+subtitle: 'simple tech for all'
 description: ''
 keywords:
-author: John Doe
-language: en
-timezone: ''
+author: mews
+language: jp
+timezone: 'Asia/Tokyo'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -56,7 +56,7 @@ prismjs:
   tab_replace: ''
 
 # Home page setting
-# path: Root path for your blogs index page. (default = '')
+# path: 'source/top-page/index.md'
 # per_page: Posts displayed per page. (0 = disable pagination)
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
@@ -96,6 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
+#theme: landscape
 theme: anatole-core-resume
 
 # Deployment
