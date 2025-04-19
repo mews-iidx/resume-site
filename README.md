@@ -21,3 +21,7 @@ npm install hexo-renderer-pug --save
 ```bash
 hexo server
 ```
+
+## tome
+
+original: https://docs.google.com/document/d/12Q07ze3OWtg0NOc19yg39t_HLcnLmGJj/edit
